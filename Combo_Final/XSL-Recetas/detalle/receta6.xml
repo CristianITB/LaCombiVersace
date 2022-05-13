@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="receptaCompleta.xsl"?>
+<recepta id="6" fecha="2 octubre, 2019">
+    <nom>Ensalada de batata, trigo sarraceno y uvas</nom>
+    <categoria>Entrante</categoria>
+    <informacio_general>
+        <foto>imagenes/batata.jpg</foto>
+        <enllaç>Receta.html?id=6</enllaç>
+        <comensals>4</comensals>
+        <temps unitat="minutos">30</temps>
+        <dificultat>Muy fácil</dificultat>
+        <resum>Esta ensalada de batata, trigo sarraceno y uvas es un rico plato
+            de temporada que incluye algunos de los ingredientes más típicos del otoño.</resum>
+    </informacio_general>
+    
+    <ingredients>
+        <ingredient quantitat="1" unitat="taza">Sarraceno cocido</ingredient>
+        <ingredient quantitat="400" unitat="gramos">Batata o boniato pelado</ingredient>
+        <ingredient quantitat="2" unitat="puñaos">rúcula</ingredient>
+        <ingredient quantitat="2" unitat="puñaos">espinacas</ingredient>
+        <ingredient quantitat="10">nueces pecanas</ingredient>
+        <ingredient quantitat="2" unitat="puñaos">uvas</ingredient>
+    </ingredients>
+    <preparacio>
+        <pas numero="0">Primero pondremos el boniato cortado en cubos pequeños en un bol y lo mezclaremos con las 2 cucharadas de aceite de oliva y los ¾ de cucharadita de canela hasta que quede todo cubierto.</pas>
+        <pas numero="1">Hornearemos a 180ºC durante unos 25 minutos. Dejaremos enfriar.</pas>
+        <pas numero="2">Lavaremos y colaremos ½ taza de trigo sarraceno crudo y lo coceremos junto con 1 taza de agua y una pizca de sal hasta que el líquido se consuma. Dejaremos enfriar.</pas>
+        <pas numero="3">El aliño lo prepararemos mezclando bien todos los ingredientes en un bol pequeño hasta conseguir una textura uniforme. Podemos rectificar del ingrediente que queramos, si es necesario. Reservaremos.</pas>
+        <pas numero="4">Montaremos la ensalada echando en un bol las hojas verdes y encima el resto de ingredientes que hemos cocinados, y también los crudos. Echaremos el aliño por encima y mezclaremos bien. Ajustar de sal o del ingrediente que más nos guste.</pas>
+    </preparacio>
+</recepta>

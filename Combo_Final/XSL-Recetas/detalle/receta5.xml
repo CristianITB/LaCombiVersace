@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="receptaCompleta.xsl"?>
+<recepta id="5" fecha="13 agosto, 2019">
+    <nom>Pudin de chía (chia pudding)</nom>
+    <categoria>Postre</categoria>
+    <informacio_general>
+        <foto>imagenes/pudding.jpg</foto>
+        <enllaç>Receta.html?id=5</enllaç>
+        <comensals>4</comensals>
+        <temps unitat="minutos">10</temps>
+        <dificultat>Medio</dificultat>
+        <resum>Este pudin de chía básico, o chia pudding es un nutritivo y delicioso 
+        tentempié, que se prepara en menos de 5 minutos con solo 4 ingredientes.</resum>
+    </informacio_general>
+    <ingredients>
+        <ingredient quantitat="2">Chia</ingredient>
+        <ingredient quantitat="1">Cebolla mediana</ingredient>
+        <ingredient quantitat="2" unitat="cucharadas">Vainilla</ingredient>
+        <ingredient quantitat="1">Ágave crudo</ingredient>
+        <ingredient quantitat="1" unitat="taza">Calabaza a cuadritos cocida</ingredient>
+        <ingredient quantitat="1" unitat="taza">Arroz negro cocido</ingredient>
+        <ingredient quantitat="2" unitat="cucharadas">Nata vegetal de tu elección</ingredient>
+    </ingredients>
+    <preparacio>
+        <pas numero="0">Para hacer esta receta vegana tan solo tendrás que poner todos los ingredientes en un vaso o tarro tapado. En primer lugar, echamos las semillas de chía.</pas>
+        <pas numero="1">Echamos ahora la vainilla y el ágave crudo.</pas>
+        <pas numero="2">A continuación vertemos la leche en los vasitos, con cuidado de no pasarnos y hacerlos rebosar, para que luego nos sea más fácil remover el contenido.</pas>
+        <pas numero="3">Ahora removemos bien todo para que te quede bien mezclado. </pas>
+        <pas numero="4">Dejamos reposar los vasitos en la nevera durante unas 8 horas para que las semillas absorban todo el líquido.</pas>
+    </preparacio>
+</recepta>

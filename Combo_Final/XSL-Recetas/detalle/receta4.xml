@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="receptaCompleta.xsl"?>
+<recepta id="4" fecha="18 diciembre, 2018">
+    <nom>Calabacines rellenos de arroz negro y calabaza</nom>
+    <categoria>Vegano</categoria>
+    <informacio_general>
+        <foto>imagenes/calabacines.jpg</foto>
+        <enllaç>Receta.html?id=4</enllaç>
+        <comensals>4</comensals>
+        <temps unitat="minutos">60</temps>
+        <dificultat>Fácil</dificultat>
+        <resum>Estos calabacines rellenos de arroz negro y calabaza que te propongo hoy,
+            son la última receta que publico en el blog en…</resum>
+    </informacio_general>
+
+    <ingredients>
+        <ingredient quantitat="2">Calabacines medianos</ingredient>
+        <ingredient quantitat="1">Cebolla mediana</ingredient>
+        <ingredient quantitat="2" unitat="cucharadas">Aceite de oliva virgen extra</ingredient>
+        <ingredient quantitat="1" unitat="diente">Ajo</ingredient>
+        <ingredient quantitat="1" unitat="taza">Calabaza a cuadritos cocida</ingredient>
+        <ingredient quantitat="1" unitat="taza">Arroz negro cocido</ingredient>
+        <ingredient quantitat="2" unitat="cucharadas">Nata vegetal de tu elección</ingredient>
+    </ingredients>
+    <preparacio>
+        <pas numero="0">En el horno precalentado a 180ºC, pondremos a hornear los calabacines partidos por la mitad en una bandeja de horno con un poco de aceite en la base para que no se peguen, entre 150-180ºC (dependiendo del horno), hasta que estén al dente y la pulpa tierna (más o menos 1 hora y ¼, pero depende del horno) Yo aprovecho para hornear la calabaza a cortada a cuadritos, también hasta que esté tierna, removiéndola si es necesario para que no se queme (pueden tardar tiempos diferentes) o también la puedes hacer al vapor.</pas>
+        <pas numero="1">Mientras cocer el arroz en 1 medida de arroz por 2 y ¼ medidas de agua, después de lavarlo bien, hasta que se consuma todo el líquido.</pas>
+        <pas numero="2">Cuando estén los calabacines, quitar la pulpa con una cuchara y reservarla.</pas>
+        <pas numero="3">En una sartén, sofreír en un poco de aceite la cebolla picada, cuando esté transparente añadir el ajo triturado, la calabaza, la pulpa deshecha de los calabacines, la canela, la sal al gusto y la nata. Remover bien para que se integre todo.</pas>
+        <pas numero="4">Rellenar los calabacines con esta mezcla, dejando espacio para añadir encima un poco de arroz cocido, un poco de mozzarella y parmesano (o cualquier queso vegano que funda y gratine)</pas>
+    </preparacio>
+</recepta>
